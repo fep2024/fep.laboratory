@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat elit et malesuada facilisis. 
+-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat elit et malesuada facilisis. 
 Suspendisse ac felis id velit tristique pellentesque. Curabitur feugiat, mi eu fringilla dapibus, erat neque 
 rhoncus nisl, in vestibulum tortor augue in lorem. Integer ut ligula nec mauris vehicula fermentum vel at 
 risus. Donec laoreet, nisi sed hendrerit facilisis, nunc nulla consectetur libero, id vehicula turpis velit 
@@ -22,5 +22,13 @@ id interdum leo tincidunt. Sed vestibulum dui a elit aliquam venenatis. Nulla fe
 fermentum, eget tincidunt neque malesuada. Curabitur malesuada massa nec mauris posuere, sed efficitur metus 
 interdum. Fusce auctor, sapien ut congue feugiat, risus nisi porta sapien, non pellentesque est turpis vitae 
 lectus. Integer a urna eget orci elementum condimentum.
+<<<<<<< Updated upstream
 Sed dapibus massa ut ante ullamcorper, et tincidunt augue aliquet. Etiam a velit sit amet nisl feugiat 
 scelerisque nec sit amet magna.
+=======
+
+Sed ac bibendum libero. Sed tincidunt felis vel sem ultrices volutpat. Integer viverra sem eu sapien tempor, 
+at tincidunt velit vehicula. Nulla non vestibulum erat. Aenean eget orci quam. Proin tincidunt lorem vitae 
+diam scelerisque bibendum. Nam ultrices nunc in risus rutrum vestibulum. Vestibulum sodales diam vitae orci 
+convallis condimentum. 
+>>>>>>> Stashed changes
