@@ -22,17 +22,13 @@ id interdum leo tincidunt. Sed vestibulum dui a elit aliquam venenatis. Nulla fe
 fermentum, eget tincidunt neque malesuada. Curabitur malesuada massa nec mauris posuere, sed efficitur metus 
 interdum. Fusce auctor, sapien ut congue feugiat, risus nisi porta sapien, non pellentesque est turpis vitae 
 lectus. Integer a urna eget orci elementum condimentum.
-<<<<<<< Updated upstream
 Sed dapibus massa ut ante ullamcorper, et tincidunt augue aliquet. Etiam a velit sit amet nisl feugiat 
-scelerisque nec sit amet magna.
-=======
-
+scelerisque nec sit amet magna.  Fusce et purus et leo egestas bibendum nec ac justo. Ut auctor quam non risus 
+pretium, quis auctor nisl suscipit.
 Sed ac bibendum libero. Sed tincidunt felis vel sem ultrices volutpat. Integer viverra sem eu sapien tempor, 
 at tincidunt velit vehicula. Nulla non vestibulum erat. Aenean eget orci quam. Proin tincidunt lorem vitae 
 diam scelerisque bibendum. Nam ultrices nunc in risus rutrum vestibulum. Vestibulum sodales diam vitae orci 
 convallis condimentum. 
->>>>>>> Stashed changes
-
 Integer posuere arcu ut sapien molestie consequat. Nam feugiat nulla a arcu egestas, a feugiat tortor porta.
 Nulla non massa ac est tristique mollis. Fusce imperdiet lorem eget orci pellentesque dictum. Donec sodales.
 nisl ut est rutrum tristique. Aliquam erat volutpat. Nullam at tortor id orci bibendum pretium. Nulla mattis 
