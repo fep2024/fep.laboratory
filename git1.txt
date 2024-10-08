@@ -38,8 +38,6 @@ scelerisque nec sit amet magna. Fusce et purus et leo egestas bibendum nec ac ju
 pretium, quis auctor nisl suscipit. Mauris sagittis risus in lorem faucibus, a vestibulum arcu porttitor. 
 Nullam sodales justo at lacus consequat, quis ullamcorper neque tempus. Phasellus porttitor magna ac eros.
 faucibus tortor, at gravida nisl sodales non.
-Suspendisse ornare lacus vel lorem cursus vestibulum.Sed tincidunt odio ac turpis aliquam, at vehicula 
-turpis laoreet. Curabitur id justo sit amet erat tristique eleifend in quis ex. Suspendisse bibendum augue ut 
-quam convallis venenatis. Sed auctor libero ut justo suscipit fringilla. 
-
-Mauris suscipit, elit ac tincidunt gravida, justo ligula scelerisque velit, in fermentum arcu ligula at urna.
+Suspendisse ornare lacus vel lorem cursus vestibulum.
+Ut varius quam eu sem mollis, ut malesuada metus 
+convallis.
