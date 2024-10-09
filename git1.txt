@@ -46,5 +46,9 @@ ultricies ultrices. Integer et lacus orci. Fusce id neque suscipit, auctor mi eg
 In hac habitasse platea dictumst. Aenean convallis turpis eget felis viverra, non condimentum nisl hendrerit.
 Morbi accumsan tincidunt arcu, nec sollicitudin justo cursus sit amet. Vivamus vel elit eu orci viverra dapibus.
 Curabitur consequat felis at justo tristique, ut scelerisque augue fringilla.
+<<<<<<< HEAD
 Nam accumsan sapien et sem lobortis, id vehicula est convallis.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat elit et malesuada facilisis. 
+=======
+Nam accumsan sapien et sem lobortis, id vehicula est.
+>>>>>>> 8001ac8391c0956fe7291e0d213324a76b441ec7
