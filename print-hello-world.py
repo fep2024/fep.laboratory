@@ -1,0 +1,1 @@
+print("Hello, world!\nFrom Anastasiia Fradkova.\n")
